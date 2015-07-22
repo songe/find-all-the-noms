@@ -38,6 +38,7 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'offthegrid',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -103,7 +104,10 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 # Parse database configuration from $DATABASE_URL
-DATABASES['default'] = dj_database_url.config()
+# Use SQLite locally
+DATABASES['default'] = dj_database_url.config(
+    default='sqlite:////{0}'.format(os.path.join(BASE_DIR, 'db.sqlite3'))
+)
 
 # Honor the 'X-Forwarded-Proto' header for request.is_secure()
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')

@@ -1,0 +1,2828 @@
+[
+  {
+    "fields": {
+      "description": "Asian Fusion",
+      "name": "3 Brothers Kitchen (1)",
+      "website": "http://www.3brotherskitchen.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "3-brothers-kitchen-1"
+  },
+  {
+    "fields": {
+      "description": "Asian Fusion",
+      "name": "3 Brothers Kitchen (2)",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "3-brothers-kitchen-2"
+  },
+  {
+    "fields": {
+      "description": "Mexican, Indian, Korean",
+      "name": "3-3-3",
+      "website": "http://www.333truck.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "3-3-3"
+  },
+  {
+    "fields": {
+      "description": "American",
+      "name": "3-Sum Eats",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "3-sum-eats"
+  },
+  {
+    "fields": {
+      "description": "Filipino",
+      "name": "ADOruBOwl",
+      "website": "http://adorubowl.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "adorubowl"
+  },
+  {
+    "fields": {
+      "description": "BBQ, Asian Fusion, Southern",
+      "name": "Adam's Grub Truck",
+      "website": "http://adamsgrubtruck.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "adams-grub-truck"
+  },
+  {
+    "fields": {
+      "description": "Vietnamese",
+      "name": "An the Go (1)",
+      "website": "http://anthegosf.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "an-the-go-1"
+  },
+  {
+    "fields": {
+      "description": "Vietnamese",
+      "name": "An the Go (2)",
+      "website": "http://anthegosf.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "an-the-go-2"
+  },
+  {
+    "fields": {
+      "description": "Korean, BBQ",
+      "name": "Arirang BBQ",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "arirang-bbq"
+  },
+  {
+    "fields": {
+      "description": "Indian",
+      "name": "Ark Grill",
+      "website": "http://www.arkgrill.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "ark-grill"
+  },
+  {
+    "fields": {
+      "description": "Korean",
+      "name": "BBQ Kalbi",
+      "website": "http://www.bbqkalbi.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "bbq-kalbi"
+  },
+  {
+    "fields": {
+      "description": "American",
+      "name": "Bacon Bacon (1)",
+      "website": "http://www.baconbaconsf.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "bacon-bacon-1"
+  },
+  {
+    "fields": {
+      "description": "American",
+      "name": "Bacon Bacon (2)",
+      "website": "http://www.baconbaconsf.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "bacon-bacon-2"
+  },
+  {
+    "fields": {
+      "description": "Crepes, International Crepes",
+      "name": "Banjara Bistro",
+      "website": "http://www.banjarabistrotruck.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "banjara-bistro"
+  },
+  {
+    "fields": {
+      "description": "Pizza, Caribbean",
+      "name": "Bariadelli Caribbean Pizza",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "bariadelli-caribbean-pizza"
+  },
+  {
+    "fields": {
+      "description": "Brunch",
+      "name": "Benedict Arnolds",
+      "website": "http://www.benedictarnolds.com/truck/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "benedict-arnolds"
+  },
+  {
+    "fields": {
+      "description": "Mexican, Latin",
+      "name": "Beyond the Border",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "beyond-the-border"
+  },
+  {
+    "fields": {
+      "description": "BBQ, American",
+      "name": "Big Ed's Buzzard BBQ",
+      "website": "http://www.bigedsbuzzardbbq.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "big-eds-buzzard-bbq"
+  },
+  {
+    "fields": {
+      "description": "Shakes",
+      "name": "Blendid",
+      "website": "http://www.blendidshakes.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "blendid"
+  },
+  {
+    "fields": {
+      "description": "Caribbean",
+      "name": "Borinquen Soul",
+      "website": "http://www.borinquensoul.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "borinquen-soul"
+  },
+  {
+    "fields": {
+      "description": "California Cuisine, Breakfast, Brunch",
+      "name": "Bowl'd Acai",
+      "website": "http://www.bowldacai.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "bowld-acai"
+  },
+  {
+    "fields": {
+      "description": "BBQ, American",
+      "name": "Brother Baby's BBQ",
+      "website": "http://www.brotherbabysbbq.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "brother-babys-bbq"
+  },
+  {
+    "fields": {
+      "description": "BBQ",
+      "name": "Burnt Ends BBQ",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "burnt-ends-bbq"
+  },
+  {
+    "fields": {
+      "description": "Mexican",
+      "name": "Canasta Kitchen",
+      "website": "http://www.canastakitchen.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "canasta-kitchen"
+  },
+  {
+    "fields": {
+      "description": "Caribbean",
+      "name": "Caribbean Spices",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "caribbean-spices"
+  },
+  {
+    "fields": {
+      "description": "Pizza",
+      "name": "Casey's Pizza",
+      "website": "http://caseyspizzas.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "caseys-pizza"
+  },
+  {
+    "fields": {
+      "description": "Seafood",
+      "name": "Ceviche & Co.",
+      "website": "http://www.cevicheco.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "ceviche-co"
+  },
+  {
+    "fields": {
+      "description": "American, Sandwiches",
+      "name": "Cheese Gone Wild",
+      "website": "http://cheesegonewild.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "cheese-gone-wild"
+  },
+  {
+    "fields": {
+      "description": "Soup, Cheese",
+      "name": "Cheese Therapy",
+      "website": "http://www.CheeseTherapyTruck.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "cheese-therapy"
+  },
+  {
+    "fields": {
+      "description": "American, Chicken Wings",
+      "name": "Cluck It Up",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "cluck-it-up"
+  },
+  {
+    "fields": {
+      "description": "Ice Cream, Dessert",
+      "name": "Cookies & Cream",
+      "website": "http://www.cookiesncreamsj.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "cookies-cream"
+  },
+  {
+    "fields": {
+      "description": "Dessert, Crepes",
+      "name": "Crepe 'Em Coming",
+      "website": "http://www.crepeemcoming.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "crepe-em-coming"
+  },
+  {
+    "fields": {
+      "description": "Dessert",
+      "name": "Cupkates",
+      "website": "https://cupkatesbakery.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "cupkates"
+  },
+  {
+    "fields": {
+      "description": "Indian",
+      "name": "Curry Up Now (1)",
+      "website": "http://www.curryupnow.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "curry-up-now-1"
+  },
+  {
+    "fields": {
+      "description": "Indian",
+      "name": "Curry Up Now (2)",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "curry-up-now-2"
+  },
+  {
+    "fields": {
+      "description": "American, Sliders, Comfort Food, California Cuisine",
+      "name": "Curveball Sliders",
+      "website": "http://www.curveballfoodtruck.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "curveball-sliders"
+  },
+  {
+    "fields": {
+      "description": "Baked Goods, Dessert",
+      "name": "Cutesy Cupcakes",
+      "website": "http://www.cutesycupcakes.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "cutesy-cupcakes"
+  },
+  {
+    "fields": {
+      "description": "Indian",
+      "name": "DUM Truck",
+      "website": "http://www.dumsf.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "dum-truck"
+  },
+  {
+    "fields": {
+      "description": "Pizza",
+      "name": "Del Popolo",
+      "website": "http://www.delpopolosf.com/about.php"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "del-popolo"
+  },
+  {
+    "fields": {
+      "description": "Indian",
+      "name": "Dil Se",
+      "website": "http://www.dilseeatery.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "dil-se"
+  },
+  {
+    "fields": {
+      "description": "Burgers",
+      "name": "Doc's Classic Comfort Food",
+      "website": "http://www.docsclassic.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "docs-classic-comfort-food"
+  },
+  {
+    "fields": {
+      "description": "Sandwiches",
+      "name": "Drewski's Hot Rod Kitchen",
+      "website": "http://drewskis.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "drewskis-hot-rod-kitchen"
+  },
+  {
+    "fields": {
+      "description": "Sliders",
+      "name": "Eat on Monday",
+      "website": "http://eatonmonday.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "eat-on-monday"
+  },
+  {
+    "fields": {
+      "description": "American, Sandwiches",
+      "name": "Ebbett's Good to Go",
+      "website": "http://www.ebbettsgoodtogo.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "ebbetts-good-to-go"
+  },
+  {
+    "fields": {
+      "description": "South American",
+      "name": "El Porteno",
+      "website": "http://www.elportenosf.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "el-porteno"
+  },
+  {
+    "fields": {
+      "description": "South American",
+      "name": "El Sur",
+      "website": "http://www.elsursf.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "el-sur"
+  },
+  {
+    "fields": {
+      "description": "Mexican",
+      "name": "El gondo",
+      "website": "http://www.tacoselgondo.menu/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "el-gondo"
+  },
+  {
+    "fields": {
+      "description": "American, Burgers, Seafood",
+      "name": "Fins on the Hoof",
+      "website": "http://www.finsonthehoof.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "fins-on-the-hoof"
+  },
+  {
+    "fields": {
+      "description": "Taiwanese",
+      "name": "Formosa Streets",
+      "website": "http://formosastreets.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "formosa-streets"
+  },
+  {
+    "fields": {
+      "description": "French, Sausages",
+      "name": "France Delices",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "france-delices"
+  },
+  {
+    "fields": {
+      "description": "Dessert",
+      "name": "Frozen Kuhsterd",
+      "website": "http://frozenkuhsterd.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "frozen-kuhsterd"
+  },
+  {
+    "fields": {
+      "description": "Ice Cream",
+      "name": "Garden Creamery",
+      "website": "http://www.gardencreamery.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "garden-creamery"
+  },
+  {
+    "fields": {
+      "description": "American",
+      "name": "Go Streatery",
+      "website": "http://gostreatery.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "go-streatery"
+  },
+  {
+    "fields": {
+      "description": "Burgers, Sandwiches",
+      "name": "Gold Rush Eatery",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "gold-rush-eatery"
+  },
+  {
+    "fields": {
+      "description": "Belgian Waffles",
+      "name": "Golden Waffle",
+      "website": "http://www.goldenwaffle.net"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "golden-waffle"
+  },
+  {
+    "fields": {
+      "description": "Indian",
+      "name": "Got Curry?",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "got-curry?"
+  },
+  {
+    "fields": {
+      "description": "Mediterranean",
+      "name": "Grab and Go Kabob",
+      "website": "http://grabandgokabob.com/about-us/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "grab-and-go-kabob"
+  },
+  {
+    "fields": {
+      "description": "Cheesesteak",
+      "name": "Grillaz Gone Wild",
+      "website": "http://www.grillazgonewild.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "grillaz-gone-wild"
+  },
+  {
+    "fields": {
+      "description": "Sandwiches",
+      "name": "Grilled Cheese Bandits",
+      "website": "http://www.grilledcheesebandits.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "grilled-cheese-bandits"
+  },
+  {
+    "fields": {
+      "description": "Mediterranean",
+      "name": "Gyro Stop",
+      "website": "http://www.gyrostopkebabg.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "gyro-stop"
+  },
+  {
+    "fields": {
+      "description": "BBQ, Soul Food",
+      "name": "H Butler's Bar BBQ",
+      "website": "http://hbutlersbbq.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "h-butlers-bar-bbq"
+  },
+  {
+    "fields": {
+      "description": "Vegan",
+      "name": "Hella Vegan Eats",
+      "website": "http://www.hellaveganeats.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "hella-vegan-eats"
+  },
+  {
+    "fields": {
+      "description": "BBQ",
+      "name": "Hill Country BBQ",
+      "website": "http://www.hillcountrybbq.net/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "hill-country-bbq"
+  },
+  {
+    "fields": {
+      "description": "Sandwiches",
+      "name": "Hiyaaa",
+      "website": "http://hiyaaa.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "hiyaaa"
+  },
+  {
+    "fields": {
+      "description": "Chinese, Asian Fusion",
+      "name": "Hongry Kong (1)",
+      "website": "http://www.hongrykong.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "hongry-kong-1"
+  },
+  {
+    "fields": {
+      "description": "Chinese, Asian Fusion",
+      "name": "Hongry Kong (2)",
+      "website": "http://www.hongrykong.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "hongry-kong-2"
+  },
+  {
+    "fields": {
+      "description": "Japanese, Asian Fusion, Sushi",
+      "name": "Hoshi on The Go",
+      "website": "http://restauranthoshi.wix.com/hoshi"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "hoshi-on-the-go"
+  },
+  {
+    "fields": {
+      "description": "Pizza",
+      "name": "Houndstooth Pizzeria",
+      "website": "http://www.houndstoothpizzeria.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "houndstooth-pizzeria"
+  },
+  {
+    "fields": {
+      "description": "Asian Fusion",
+      "name": "Hula Truck (1)",
+      "website": "http://www.hulatruck408.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "hula-truck-1"
+  },
+  {
+    "fields": {
+      "description": "Asian Fusion, Hawaiian",
+      "name": "Hula Truck (2)",
+      "website": "http://www.hulatruck408.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "hula-truck-2"
+  },
+  {
+    "fields": {
+      "description": "American, Sandwiches, Cheesesteak",
+      "name": "Izzy's Cheesesteaks",
+      "website": "http://www.izzyscheesesteaks.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "izzys-cheesesteaks"
+  },
+  {
+    "fields": {
+      "description": "Ice Cream, Dessert",
+      "name": "IzzyA's Frozen Custard",
+      "website": "http://izzyafrozenicecreamcustard.com/index.html"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "izzyas-frozen-custard"
+  },
+  {
+    "fields": {
+      "description": "Japanese, Crepes",
+      "name": "J Shack",
+      "website": "http://www.jshacksf.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "j-shack"
+  },
+  {
+    "fields": {
+      "description": "Dessert, Doughnuts",
+      "name": "Johnny Doughnuts",
+      "website": "http://johnnydoughnuts.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "johnny-doughnuts"
+  },
+  {
+    "fields": {
+      "description": "Coffee, Doughnuts",
+      "name": "Johnny Doughnuts (2)",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "johnny-doughnuts-2"
+  },
+  {
+    "fields": {
+      "description": "BBQ",
+      "name": "Jon Jon's BBQ",
+      "website": "http://www.jonjonsbbq.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "jon-jons-bbq"
+  },
+  {
+    "fields": {
+      "description": "Mexican",
+      "name": "Judie's Tacos Locos",
+      "website": "http://www.judiestacoslocos.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "judies-tacos-locos"
+  },
+  {
+    "fields": {
+      "description": "Middle Eastern",
+      "name": "Kabob Trolley",
+      "website": "http://www.kabobtrolley.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "kabob-trolley"
+  },
+  {
+    "fields": {
+      "description": "Dessert",
+      "name": "Kara's Cupcakes",
+      "website": "http://www.karascupcakes.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "karas-cupcakes"
+  },
+  {
+    "fields": {
+      "description": "Soul Food",
+      "name": "Kenny's Heart and Soul",
+      "website": "http://www.kennysheartandsoul.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "kennys-heart-and-soul"
+  },
+  {
+    "fields": {
+      "description": "Korean, Japanese, Asian Fusion",
+      "name": "KoJa Kitchen",
+      "website": "http://kojakitchen.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "koja-kitchen"
+  },
+  {
+    "fields": {
+      "description": "Korean, Asian Fusion, Fried Chicken",
+      "name": "Kokio Republic",
+      "website": "http://www.kokiorepublic.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "kokio-republic"
+  },
+  {
+    "fields": {
+      "description": "Japanese, Asian Fusion, Sushi",
+      "name": "Kome Sushi Burrito",
+      "website": "http://www.kometruck.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "kome-sushi-burrito"
+  },
+  {
+    "fields": {
+      "description": "Korean",
+      "name": "Korean Bob Cha",
+      "website": "http://www.bobchasf.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "korean-bob-cha"
+  },
+  {
+    "fields": {
+      "description": "French",
+      "name": "Le Cafe Roule",
+      "website": "http://www.lecaferoule.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "le-cafe-roule"
+  },
+  {
+    "fields": {
+      "description": "Dessert",
+      "name": "Lexie's Frozen Custard",
+      "website": "http://www.lexiesfrozencustard.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "lexies-frozen-custard"
+  },
+  {
+    "fields": {
+      "description": "Mediterranean",
+      "name": "Liba Falafel",
+      "website": "http://libafalafel.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "liba-falafel"
+  },
+  {
+    "fields": {
+      "description": "American",
+      "name": "Licensed 2 Grill",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "licensed-2-grill"
+  },
+  {
+    "fields": {
+      "description": "Vietnamese",
+      "name": "Little Green Cyclo (1)",
+      "website": "http://littlegreencyclo.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "little-green-cyclo-1"
+  },
+  {
+    "fields": {
+      "description": "Vietnamese",
+      "name": "Little Green Cyclo (2)",
+      "website": "http://littlegreencyclo.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "little-green-cyclo-2"
+  },
+  {
+    "fields": {
+      "description": "German",
+      "name": "Little Red Riding Truck",
+      "website": "http://littleredridingtrucksf.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "little-red-riding-truck"
+  },
+  {
+    "fields": {
+      "description": "Seafood",
+      "name": "Lobsta Truck (1)",
+      "website": "http://www.lobstatruck.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "lobsta-truck-1"
+  },
+  {
+    "fields": {
+      "description": "Seafood",
+      "name": "Lobsta Truck (2)",
+      "website": "http://www.lobstatruck.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "lobsta-truck-2"
+  },
+  {
+    "fields": {
+      "description": "Mexican",
+      "name": "Los Tolucas",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "los-tolucas"
+  },
+  {
+    "fields": {
+      "description": "Bar",
+      "name": "Lucky 13",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "lucky-13"
+  },
+  {
+    "fields": {
+      "description": "Mexican, Asian Fusion",
+      "name": "Madd Mex Cantina",
+      "website": "http://www.maddmexcantina.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "madd-mex-cantina"
+  },
+  {
+    "fields": {
+      "description": "Acai Bowls, Smoothies",
+      "name": "Mahalo Bowl",
+      "website": "http://www.mahalobowl.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "mahalo-bowl"
+  },
+  {
+    "fields": {
+      "description": "Japanese",
+      "name": "Manna JPT",
+      "website": "http://www.mannajpt.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "manna-jpt"
+  },
+  {
+    "fields": {
+      "description": "Indian",
+      "name": "Mantraah",
+      "website": "http://temp.mantraah.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "mantraah"
+  },
+  {
+    "fields": {
+      "description": "American",
+      "name": "Maxwell St.",
+      "website": "http://maxwelltruck.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "maxwell-st"
+  },
+  {
+    "fields": {
+      "description": "Sandwiches",
+      "name": "Mayo & Mustard",
+      "website": "http://www.mayomustard.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "mayo-mustard"
+  },
+  {
+    "fields": {
+      "description": "Burgers",
+      "name": "Me So Hungry SF",
+      "website": "http://mesohungrytruck.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "me-so-hungry-sf"
+  },
+  {
+    "fields": {
+      "description": "Burgers, Sliders",
+      "name": "Me So Hungry Too",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "me-so-hungry-too"
+  },
+  {
+    "fields": {
+      "description": "Asian Fusion",
+      "name": "Mobowl",
+      "website": "http://www.eatmobowl.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "mobowl"
+  },
+  {
+    "fields": {
+      "description": "Pizza",
+      "name": "Moonstruck",
+      "website": "http://www.moonstruck.info"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "moonstruck"
+  },
+  {
+    "fields": {
+      "description": "Pizza",
+      "name": "Mozzeria",
+      "website": "http://www.mozzeria.com/home"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "mozzeria"
+  },
+  {
+    "fields": {
+      "description": "Filipino, Spanish",
+      "name": "Naked Chorizo",
+      "website": "http://www.nakedchorizo.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "naked-chorizo"
+  },
+  {
+    "fields": {
+      "description": "Filipino, Vegan",
+      "name": "No Worries",
+      "website": "http://www.filipinoveganfood.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "no-worries"
+  },
+  {
+    "fields": {
+      "description": "Vietnamese",
+      "name": "O Mi Ninja",
+      "website": "http://omininjasj.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "o-mi-ninja"
+  },
+  {
+    "fields": {
+      "description": "Mexican",
+      "name": "Oaxacan Kitchen Mobile",
+      "website": "http://www.oaxacankitchenmobile.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "oaxacan-kitchen-mobile"
+  },
+  {
+    "fields": {
+      "description": "Asian Fusion",
+      "name": "Oh Miso Hungry",
+      "website": "http://www.ohmisohungry.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "oh-miso-hungry"
+  },
+  {
+    "fields": {
+      "description": "Burgers",
+      "name": "Opie's Gourmet Stacked Burgers",
+      "website": "http://www.opiesgsb.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "opies-gourmet-stacked-burgers"
+  },
+  {
+    "fields": {
+      "description": "Dessert",
+      "name": "Pacific Puffs",
+      "website": "http://www.pacificpuffs.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "pacific-puffs"
+  },
+  {
+    "fields": {
+      "description": "American, Burgers, Sliders",
+      "name": "Paddy Wagon Sliders",
+      "website": "http://www.paddywagonsliders.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "paddy-wagon-sliders"
+  },
+  {
+    "fields": {
+      "description": "Pizza",
+      "name": "Pagan Fire Pizza",
+      "website": "http://www.paganfirepizza.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "pagan-fire-pizza"
+  },
+  {
+    "fields": {
+      "description": "South American",
+      "name": "Patagonia Empanadas",
+      "website": "http://www.sfpatagonia.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "patagonia-empanadas"
+  },
+  {
+    "fields": {
+      "description": "Chinese, Peruvian, Asian Fusion, Global Fusion",
+      "name": "Peru Chi",
+      "website": "http://www.peruchitruck.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "peru-chi"
+  },
+  {
+    "fields": {
+      "description": "Thai",
+      "name": "Phat Thai",
+      "website": "http://phatthaisf.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "phat-thai"
+  },
+  {
+    "fields": {
+      "description": "Asian Fusion",
+      "name": "Pluck",
+      "website": "http://www.pluckmenu.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "pluck"
+  },
+  {
+    "fields": {
+      "description": "Vietnamese, Korean, Asian Fusion",
+      "name": "Porky's SJ",
+      "website": "http://www.porkyssj.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "porkys-sj"
+  },
+  {
+    "fields": {
+      "description": "Ice Cream, Dessert",
+      "name": "Real Cool Frozen Treats",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "real-cool-frozen-treats"
+  },
+  {
+    "fields": {
+      "description": "Mexican",
+      "name": "Red Rooster Tacos",
+      "website": "http://redroostertacos.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "red-rooster-tacos"
+  },
+  {
+    "fields": {
+      "description": "BBQ, Southern",
+      "name": "Roderick's BBQ",
+      "website": "http://www.rodericksfoodtruck.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "rodericks-bbq"
+  },
+  {
+    "fields": {
+      "description": "Rotisserie, Sandwiches, California Cuisine",
+      "name": "Roli Roti",
+      "website": "http://www.roliroti.com/about-us"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "roli-roti"
+  },
+  {
+    "fields": {
+      "description": "Mediterranean",
+      "name": "SAJJ (1)",
+      "website": "http://sajjstreeteats.com/food-truck/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "sajj-1"
+  },
+  {
+    "fields": {
+      "description": "Mediterranean",
+      "name": "SAJJ (2)",
+      "website": "http://sajjstreeteats.com/food-truck/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "sajj-2"
+  },
+  {
+    "fields": {
+      "description": "Guatemalan",
+      "name": "Sabor San Miguel",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "sabor-san-miguel"
+  },
+  {
+    "fields": {
+      "description": "Afghan",
+      "name": "Sabzee",
+      "website": "http://www.sabzeefoods.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "sabzee"
+  },
+  {
+    "fields": {
+      "description": "Seafood",
+      "name": "Sam's Chowder Mobile (1)",
+      "website": "http://www.samschowdermobile.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "sams-chowder-mobile-1"
+  },
+  {
+    "fields": {
+      "description": "Seafood",
+      "name": "Sam's Chowder Mobile (2)",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "sams-chowder-mobile-2"
+  },
+  {
+    "fields": {
+      "description": "Soup, Sandwiches",
+      "name": "San Francisco Soup Company",
+      "website": "http://www.sfsoupco.com/index.php"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "san-francisco-soup-company"
+  },
+  {
+    "fields": {
+      "description": "Peruvian",
+      "name": "Sanguchon (1)",
+      "website": "http://www.sanguchonsf.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "sanguchon-1"
+  },
+  {
+    "fields": {
+      "description": "Peruvian",
+      "name": "Sanguchon (2)",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "sanguchon-2"
+  },
+  {
+    "fields": {
+      "description": "Mexican, Filipino",
+      "name": "Senor Sisig (1)",
+      "website": "http://www.senorsisig.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "senor-sisig-1"
+  },
+  {
+    "fields": {
+      "description": "Mexican, Filipino",
+      "name": "Senor Sisig (2)",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "senor-sisig-2"
+  },
+  {
+    "fields": {
+      "description": "Korean, Asian Fusion, Taiwanese",
+      "name": "Seoul of Taipei",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "seoul-of-taipei"
+  },
+  {
+    "fields": {
+      "description": "Korean",
+      "name": "Seoul on Wheels",
+      "website": "http://seoulonwheels.com/Seoul/yum.html"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "seoul-on-wheels"
+  },
+  {
+    "fields": {
+      "description": "Korean",
+      "name": "Seoulful Korean Fried Chicken",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "seoulful-korean-fried-chicken"
+  },
+  {
+    "fields": {
+      "description": "Mexican, Thai",
+      "name": "Siam Loco Wraps",
+      "website": "http://www.siamlocowraps.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "siam-loco-wraps"
+  },
+  {
+    "fields": {
+      "description": "Dessert",
+      "name": "Skylite Snowballs",
+      "website": "http://www.skylitesnowballs.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "skylite-snowballs"
+  },
+  {
+    "fields": {
+      "description": "Burgers",
+      "name": "Slider Shack",
+      "website": "http://www.slidershacksf.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "slider-shack"
+  },
+  {
+    "fields": {
+      "description": "Sliders",
+      "name": "Slider Truck",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "slider-truck"
+  },
+  {
+    "fields": {
+      "description": "Asian Fusion",
+      "name": "Slightly Skewed",
+      "website": "http://www.slightlyskewedtruck.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "slightly-skewed"
+  },
+  {
+    "fields": {
+      "description": "BBQ",
+      "name": "Smokin' Warehouse Barbecue",
+      "website": "http://www.smokinwarehouse.blogspot.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "smokin-warehouse-barbecue"
+  },
+  {
+    "fields": {
+      "description": "Asian Fusion",
+      "name": "Soulnese",
+      "website": "http://soulnese.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "soulnese"
+  },
+  {
+    "fields": {
+      "description": "American, Southern, Creole",
+      "name": "Southern Comfort Kitchen",
+      "website": "http://www.southerncomfortkitchen.net/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "southern-comfort-kitchen"
+  },
+  {
+    "fields": {
+      "description": "Sandwiches",
+      "name": "Speedy Panini",
+      "website": "http://www.speedypanini.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "speedy-panini"
+  },
+  {
+    "fields": {
+      "description": "American, Sausages",
+      "name": "Street Dog Truck",
+      "website": "http://www.streetdogtruck.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "street-dog-truck"
+  },
+  {
+    "fields": {
+      "description": "Sandwiches, Mediterranean",
+      "name": "Subs on Hubs",
+      "website": "http://www.subsonhubs.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "subs-on-hubs"
+  },
+  {
+    "fields": {
+      "description": "Asian Fusion, Dessert",
+      "name": "T.Epiphany",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "tepiphany"
+  },
+  {
+    "fields": {
+      "description": "Mexican, Latin, Mexican-Fusion",
+      "name": "Takoz Mod Mex",
+      "website": "http://takozmodmex.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "takoz-mod-mex"
+  },
+  {
+    "fields": {
+      "description": "Indian",
+      "name": "Tandoori Chicken USA",
+      "website": "http://tcusamobile.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "tandoori-chicken-usa"
+  },
+  {
+    "fields": {
+      "description": "Mexican",
+      "name": "Taqueria Angelicas",
+      "website": "http://www.taqueriaangelicas.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "taqueria-angelicas"
+  },
+  {
+    "fields": {
+      "description": "BBQ, American",
+      "name": "The Boneyard",
+      "website": "http://www.theboneyardtruck.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "the-boneyard"
+  },
+  {
+    "fields": {
+      "description": "Chinese, Asian Fusion",
+      "name": "The Chairman (1)",
+      "website": "http://www.thechairmantruck.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "the-chairman-1"
+  },
+  {
+    "fields": {
+      "description": "Chinese, Asian Fusion",
+      "name": "The Chairman (2)",
+      "website": "http://www.thechairmantruck.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "the-chairman-2"
+  },
+  {
+    "fields": {
+      "description": "Middle Eastern",
+      "name": "The Kabob Job",
+      "website": "http://thekabobjob.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "the-kabob-job"
+  },
+  {
+    "fields": {
+      "description": "BBQ",
+      "name": "The Rib Whip",
+      "website": "http://cedarhillsf.com/ribwhip/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "the-rib-whip"
+  },
+  {
+    "fields": {
+      "description": "Burgers",
+      "name": "The Steamin' Burger",
+      "website": "http://www.thesteaminburger.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "the-steamin-burger"
+  },
+  {
+    "fields": {
+      "description": "Mexican, American",
+      "name": "The Taco Guys",
+      "website": "http://www.thetacoguys.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "the-taco-guys"
+  },
+  {
+    "fields": {
+      "description": "Chicken & Waffles, Soul Food",
+      "name": "The Waffle Roost",
+      "website": "http://thewaffleroost.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "the-waffle-roost"
+  },
+  {
+    "fields": {
+      "description": "Japanese, Sushi",
+      "name": "Tokiko",
+      "website": "http://www.Tokikojapanesefood.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "tokiko"
+  },
+  {
+    "fields": {
+      "description": "Chinese, Japanese, Asian Fusion, Dumplings",
+      "name": "Tonli Dumpling",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "tonli-dumpling"
+  },
+  {
+    "fields": {
+      "description": "Mexican",
+      "name": "Tres Truck",
+      "website": "http://tressf.com/tres-truck/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "tres-truck"
+  },
+  {
+    "fields": {
+      "description": "Dessert",
+      "name": "Tutto Bene Gelateria",
+      "website": "http://www.tuttobenegelateria.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "tutto-bene-gelateria"
+  },
+  {
+    "fields": {
+      "description": "Ice Cream",
+      "name": "Twisted Chill",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "twisted-chill"
+  },
+  {
+    "fields": {
+      "description": "Crepes",
+      "name": "Ulta Crepes",
+      "website": "http://www.ultracrepes.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "ulta-crepes"
+  },
+  {
+    "fields": {
+      "description": "Global Fusion",
+      "name": "United Bites",
+      "website": "http://www.unitedbites.com/wordpress/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "united-bites"
+  },
+  {
+    "fields": {
+      "description": "American",
+      "name": "Voodoo Van",
+      "website": "http://voodoovan.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "voodoo-van"
+  },
+  {
+    "fields": {
+      "description": "Waffles",
+      "name": "Waffle Amore",
+      "website": "http://waffleamore.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "waffle-amore"
+  },
+  {
+    "fields": {
+      "description": "Burmese, Mandalay",
+      "name": "Wanna-E",
+      "website": "http://www.wanna-e.com/#"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "wanna-e"
+  },
+  {
+    "fields": {
+      "description": "Japanese",
+      "name": "We Sushi",
+      "website": "http://www.wesushi.net"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "we-sushi"
+  },
+  {
+    "fields": {
+      "description": "Burgers",
+      "name": "WhipOut!",
+      "website": "https://www.facebook.com/WhipOutFoodTruck"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "whipout!"
+  },
+  {
+    "fields": {
+      "description": "American, Burgers, Sandwiches",
+      "name": "Whisk on Wheels",
+      "website": "http://www.sfwhisk.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "whisk-on-wheels"
+  },
+  {
+    "fields": {
+      "description": "Mexican",
+      "name": "Alicia's Tamales Los Mayas",
+      "website": "http://www.aliciatamaleslosmayas.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "alicias-tamales-los-mayas"
+  },
+  {
+    "fields": {
+      "description": "Coffee",
+      "name": "Barefoot Mobile Coffee",
+      "website": "http://www.barefootcoffee.com/pages/barefoot-mobile"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "barefoot-mobile-coffee"
+  },
+  {
+    "fields": {
+      "description": "Retail, Coffee, Beverage",
+      "name": "Beach Beverage Co.",
+      "website": "http://beachbrewed.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "beach-beverage-co"
+  },
+  {
+    "fields": {
+      "description": "Baked Goods, Coffee",
+      "name": "BikeCaffe",
+      "website": "http://www.bikecaffe.info"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "bikecaffe"
+  },
+  {
+    "fields": {
+      "description": "Greek",
+      "name": "Gyro & Cheesesteak Trolley",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "gyro-cheesesteak-trolley"
+  },
+  {
+    "fields": {
+      "description": "Mediterranean, Greek",
+      "name": "Gyros on Wheels",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "gyros-on-wheels"
+  },
+  {
+    "fields": {
+      "description": "Hot Dogs",
+      "name": "Hot Diggity",
+      "website": "http://www.hotdiggitymarin.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "hot-diggity"
+  },
+  {
+    "fields": {
+      "description": "Greek, Doughnuts",
+      "name": "Me Meli",
+      "website": "http://www.sfmemeli.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "me-meli"
+  },
+  {
+    "fields": {
+      "description": "Soul Food",
+      "name": "Minnie Bells",
+      "website": "http://www.minniebells.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "minnie-bells"
+  },
+  {
+    "fields": {
+      "description": "Ice Cream, Dessert",
+      "name": "Real Cool Frozen Cart",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "real-cool-frozen-cart"
+  },
+  {
+    "fields": {
+      "description": "Noodle, Sandwiches, Meatballs",
+      "name": "Red Sauce Meatballs",
+      "website": "http://www.redsaucemeatballs.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "red-sauce-meatballs"
+  },
+  {
+    "fields": {
+      "description": "Coffee",
+      "name": "Ritual Coffee",
+      "website": "http://www.ritualroasters.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "ritual-coffee"
+  },
+  {
+    "fields": {
+      "description": "Coffee",
+      "name": "Roast Co.",
+      "website": "http://www.roastco.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "roast-co"
+  },
+  {
+    "fields": {
+      "description": "Dessert",
+      "name": "Rocko's Ice Cream Tacos",
+      "website": "http://www.rockosicecreamtacos.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "rockos-ice-cream-tacos"
+  },
+  {
+    "fields": {
+      "description": "Dessert",
+      "name": "The Creme Brulee Cart",
+      "website": "http://thecremebruleecart.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "the-creme-brulee-cart"
+  },
+  {
+    "fields": {
+      "description": "Sausages, Hot Dogs",
+      "name": "The Missing Link",
+      "website": "http://www.missinglinksf1.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "the-missing-link"
+  },
+  {
+    "fields": {
+      "description": "Seafood",
+      "name": "We're on a Roll",
+      "website": "http://www.newenglandlobster.net/foodtruck.php"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "were-on-a-roll"
+  },
+  {
+    "fields": {
+      "description": "Malaysian",
+      "name": "Azalina's Malaysian",
+      "website": "http://www.azalinas.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "azalinas-malaysian"
+  },
+  {
+    "fields": {
+      "description": "Burgers",
+      "name": "Belly Burgers",
+      "website": "http://www.thebellyburger.com/#&panel1-1"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "belly-burgers"
+  },
+  {
+    "fields": {
+      "description": "Nepalese",
+      "name": "Bini's Kitchen",
+      "website": "http://biniskitchen.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "binis-kitchen"
+  },
+  {
+    "fields": {
+      "description": "Korean",
+      "name": "Bok Ssam",
+      "website": "http://www.bokssam.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "bok-ssam"
+  },
+  {
+    "fields": {
+      "description": "BBQ, Asian Fusion",
+      "name": "Bombzies BBQ",
+      "website": "http://www.bombziesbbq.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "bombzies-bbq"
+  },
+  {
+    "fields": {
+      "description": "BBQ, Burmese",
+      "name": "Burma Bear",
+      "website": "http://www.burmabear.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "burma-bear"
+  },
+  {
+    "fields": {
+      "description": "Mexican",
+      "name": "CHICA",
+      "website": "http://www.chicasf.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "chica"
+  },
+  {
+    "fields": {
+      "description": "Peruvian",
+      "name": "Cholita Linda",
+      "website": "http://cholitalinda.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "cholita-linda"
+  },
+  {
+    "fields": {
+      "description": "Japanese",
+      "name": "Chotto",
+      "website": "http://www.chottosf.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "chotto"
+  },
+  {
+    "fields": {
+      "description": "BBQ",
+      "name": "Cochon Volant",
+      "website": "http://www.cochonvolantbbq.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "cochon-volant"
+  },
+  {
+    "fields": {
+      "description": "Mexican",
+      "name": "El Pipila",
+      "website": "http://elpipila.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "el-pipila"
+  },
+  {
+    "fields": {
+      "description": "South American",
+      "name": "El Porteno",
+      "website": "http://www.elportenosf.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "el-porteno"
+  },
+  {
+    "fields": {
+      "description": "Sandwiches, Dessert",
+      "name": "Fat Face",
+      "website": "http://www.fruitmeetsfun.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "fat-face"
+  },
+  {
+    "fields": {
+      "description": "Seafood",
+      "name": "Fine and Rare",
+      "website": "http://fineandraresf.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "fine-and-rare"
+  },
+  {
+    "fields": {
+      "description": "Pizza",
+      "name": "Firetrail Pizza",
+      "website": "http://firetrailpizza.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "firetrail-pizza"
+  },
+  {
+    "fields": {
+      "description": "Mexican, Mexican-Fusion",
+      "name": "Frita's Shack",
+      "website": "http://fritasshack.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "fritas-shack"
+  },
+  {
+    "fields": {
+      "description": "Dessert, Zeppole",
+      "name": "Girl Friday Zeppole",
+      "website": "http://www.girlfridaysf.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "girl-friday-zeppole"
+  },
+  {
+    "fields": {
+      "description": "Cheese",
+      "name": "Grilled Cheez Guy",
+      "website": "http://grilledcheezguy.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "grilled-cheez-guy"
+  },
+  {
+    "fields": {
+      "description": "Chinese",
+      "name": "Happy Dumplings",
+      "website": "http://www.happydumplings.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "happy-dumplings"
+  },
+  {
+    "fields": {
+      "description": "Dessert, Doughnuts",
+      "name": "Harvey's Gourmet Donut Company",
+      "website": "http://www.harveysdonuts.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "harveys-gourmet-donut-company"
+  },
+  {
+    "fields": {
+      "description": "Baked Goods",
+      "name": "Her Coconess",
+      "website": "http://www.hercoconess.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "her-coconess"
+  },
+  {
+    "fields": {
+      "description": "Filipino",
+      "name": "Jeepney Guy",
+      "website": "http://jeepneyguy.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "jeepney-guy"
+  },
+  {
+    "fields": {
+      "description": "Global Fusion",
+      "name": "Kama Food Lab",
+      "website": "http://www.kamafoodlab.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "kama-food-lab"
+  },
+  {
+    "fields": {
+      "description": "Spanish",
+      "name": "La Marcha",
+      "website": "http://510nora.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "la-marcha"
+  },
+  {
+    "fields": {
+      "description": "Baked Goods",
+      "name": "Mendocino Gluten Free Baking Company",
+      "website": "http://mendogfbakingco.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "mendocino-gluten-free-baking-company"
+  },
+  {
+    "fields": {
+      "description": "Mexican",
+      "name": "Nopalito",
+      "website": "http://www.nopalitosf.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "nopalito"
+  },
+  {
+    "fields": {
+      "description": "Dessert",
+      "name": "Nosh This",
+      "website": "http://noshthis.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "nosh-this"
+  },
+  {
+    "fields": {
+      "description": "Dessert",
+      "name": "Peter's Kettle Corn",
+      "website": "http://www.peterskettlecorn.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "peters-kettle-corn"
+  },
+  {
+    "fields": {
+      "description": "Indian",
+      "name": "Raj + Singh",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "raj-+-singh"
+  },
+  {
+    "fields": {
+      "description": "Indian",
+      "name": "Rasoi",
+      "website": "http://rasoikitchen.strikingly.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "rasoi"
+  },
+  {
+    "fields": {
+      "description": "American, Sausages",
+      "name": "Rosamunde",
+      "website": "http://rosamundesausagegrill.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "rosamunde"
+  },
+  {
+    "fields": {
+      "description": "Gourmet, California Cuisine, Vegan",
+      "name": "Seed & Salt",
+      "website": "http://seedandsalt.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "seed-salt"
+  },
+  {
+    "fields": {
+      "description": "Dessert, Cotton Candy",
+      "name": "Sugar and Spun",
+      "website": "http://www.sugarandspun.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "sugar-and-spun"
+  },
+  {
+    "fields": {
+      "description": "Grits",
+      "name": "Sugarfoot Grits",
+      "website": "http://www.sugarfootgrits.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "sugarfoot-grits"
+  },
+  {
+    "fields": {
+      "description": "BBQ",
+      "name": "The Whole Beast",
+      "website": "http://www.thewholebeast.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "the-whole-beast"
+  },
+  {
+    "fields": {
+      "description": "Ice Cream",
+      "name": "Three Twins",
+      "website": "http://threetwinsicecream.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "three-twins"
+  },
+  {
+    "fields": {
+      "description": "Chicken Wings",
+      "name": "Wing Wings",
+      "website": "http://www.wingwingssf.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "wing-wings"
+  },
+  {
+    "fields": {
+      "description": "Produce",
+      "name": "Yerena Farms",
+      "website": "http://www.cuesa.org/seller/yerena-farms"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "yerena-farms"
+  },
+  {
+    "fields": {
+      "description": "Bar",
+      "name": "Bubble Bar",
+      "website": "https://docs.google.com/a/offthegridsf.com/file/d/0B_mc1oFNrmMDR0F0UWpmS1dDdktndDdpejNlaWp3RjRzV0Jv/preview"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "bubble-bar"
+  },
+  {
+    "fields": {
+      "description": "Beverage",
+      "name": "LHP Trading Co.",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "lhp-trading-co"
+  },
+  {
+    "fields": {
+      "description": "Bar",
+      "name": "Lucky 13",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "lucky-13"
+  },
+  {
+    "fields": {
+      "description": "Bar",
+      "name": "Magnolia",
+      "website": "http://www.magnoliapub.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "magnolia"
+  },
+  {
+    "fields": {
+      "description": "Bar, Beverage, Cocktails",
+      "name": "Rye on the Road",
+      "website": "http://www.ryeontheroad.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "rye-on-the-road"
+  },
+  {
+    "fields": {
+      "description": "Retail, Coffee, Beverage",
+      "name": "Beach Beverage Co.",
+      "website": "http://beachbrewed.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "beach-beverage-co"
+  },
+  {
+    "fields": {
+      "description": "Kombucha, Beverage",
+      "name": "Clearly Kombucha",
+      "website": "http://www.instagram.com/clearlykombucha"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "clearly-kombucha"
+  },
+  {
+    "fields": {
+      "description": "Beverage, Juice",
+      "name": "Happy Moose Juice",
+      "website": "http://happymoosejuice.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "happy-moose-juice"
+  },
+  {
+    "fields": {
+      "description": "Coffee",
+      "name": "Ritual Coffee",
+      "website": "http://www.ritualroasters.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "ritual-coffee"
+  },
+  {
+    "fields": {
+      "description": "Coffee",
+      "name": "Roast Co.",
+      "website": "http://www.roastco.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "roast-co"
+  },
+  {
+    "fields": {
+      "description": "Bar",
+      "name": "Picnic Bar",
+      "website": "https://docs.google.com/a/offthegridsf.com/file/d/0B_mc1oFNrmMDNjJrUHJINjFoV2k5bFdUUnkzRWRiUklDSVJR/preview"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "picnic-bar"
+  },
+  {
+    "fields": {
+      "description": "Bar",
+      "name": "QBC",
+      "website": "http://qualitybeveragesf.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "qbc"
+  },
+  {
+    "fields": {
+      "description": "Bar",
+      "name": "Twilight Bar",
+      "website": "https://docs.google.com/a/offthegridsf.com/file/d/0B_mc1oFNrmMDREpwOUFpcHdHSnFzU3E1N3RVS2l2cHM3aUlr/preview"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "twilight-bar"
+  },
+  {
+    "fields": {
+      "description": "Baked Goods, Coffee",
+      "name": "BikeCaffe",
+      "website": "http://www.bikecaffe.info"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "bikecaffe"
+  },
+  {
+    "fields": {
+      "description": "Baked Goods, Dessert",
+      "name": "Cutesy Cupcakes",
+      "website": "http://www.cutesycupcakes.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "cutesy-cupcakes"
+  },
+  {
+    "fields": {
+      "description": "Dessert, Doughnuts",
+      "name": "Harvey's Gourmet Donut Company",
+      "website": "http://www.harveysdonuts.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "harveys-gourmet-donut-company"
+  },
+  {
+    "fields": {
+      "description": "Ice Cream, Dessert",
+      "name": "IzzyA's Frozen Custard",
+      "website": "http://izzyafrozenicecreamcustard.com/index.html"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "izzyas-frozen-custard"
+  },
+  {
+    "fields": {
+      "description": "Coffee",
+      "name": "Ritual Coffee",
+      "website": "http://www.ritualroasters.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "ritual-coffee"
+  },
+  {
+    "fields": {
+      "description": "Asian Fusion",
+      "name": "3 Brothers Kitchen (2)",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "3-brothers-kitchen-2"
+  },
+  {
+    "fields": {
+      "description": "American",
+      "name": "3-Sum Eats",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "3-sum-eats"
+  },
+  {
+    "fields": {
+      "description": "Filipino",
+      "name": "ADOruBOwl",
+      "website": "http://adorubowl.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "adorubowl"
+  },
+  {
+    "fields": {
+      "description": "Vietnamese",
+      "name": "An the Go (2)",
+      "website": "http://anthegosf.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "an-the-go-2"
+  },
+  {
+    "fields": {
+      "description": "Indian",
+      "name": "Ark Grill",
+      "website": "http://www.arkgrill.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "ark-grill"
+  },
+  {
+    "fields": {
+      "description": "Korean",
+      "name": "BBQ Kalbi",
+      "website": "http://www.bbqkalbi.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "bbq-kalbi"
+  },
+  {
+    "fields": {
+      "description": "Persian, Kabob",
+      "name": "Baba Kabob",
+      "website": "http://thebabakabobtruck.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "baba-kabob"
+  },
+  {
+    "fields": {
+      "description": "American",
+      "name": "Bacon Bacon (2)",
+      "website": "http://www.baconbaconsf.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "bacon-bacon-2"
+  },
+  {
+    "fields": {
+      "description": "Crepes, International Crepes",
+      "name": "Banjara Bistro",
+      "website": "http://www.banjarabistrotruck.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "banjara-bistro"
+  },
+  {
+    "fields": {
+      "description": "Pizza, Caribbean",
+      "name": "Bariadelli Caribbean Pizza",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "bariadelli-caribbean-pizza"
+  },
+  {
+    "fields": {
+      "description": "Mexican, Latin",
+      "name": "Beyond the Border",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "beyond-the-border"
+  },
+  {
+    "fields": {
+      "description": "BBQ, American",
+      "name": "Big Ed's Buzzard BBQ",
+      "website": "http://www.bigedsbuzzardbbq.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "big-eds-buzzard-bbq"
+  },
+  {
+    "fields": {
+      "description": "BBQ, American",
+      "name": "Brother Baby's BBQ",
+      "website": "http://www.brotherbabysbbq.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "brother-babys-bbq"
+  },
+  {
+    "fields": {
+      "description": "BBQ",
+      "name": "Burnt Ends BBQ",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "burnt-ends-bbq"
+  },
+  {
+    "fields": {
+      "description": "Mexican",
+      "name": "CHICA",
+      "website": "http://www.chicasf.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "chica"
+  },
+  {
+    "fields": {
+      "description": "Mexican",
+      "name": "Canasta Kitchen",
+      "website": "http://www.canastakitchen.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "canasta-kitchen"
+  },
+  {
+    "fields": {
+      "description": "Seafood",
+      "name": "Ceviche & Co.",
+      "website": "http://www.cevicheco.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "ceviche-co"
+  },
+  {
+    "fields": {
+      "description": "Soup, Cheese",
+      "name": "Cheese Therapy",
+      "website": "http://www.CheeseTherapyTruck.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "cheese-therapy"
+  },
+  {
+    "fields": {
+      "description": "Dessert, Crepes",
+      "name": "Crepe 'Em Coming",
+      "website": "http://www.crepeemcoming.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "crepe-em-coming"
+  },
+  {
+    "fields": {
+      "description": "Indian",
+      "name": "Curry Up Now (2)",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "curry-up-now-2"
+  },
+  {
+    "fields": {
+      "description": "American, Sliders, Comfort Food, California Cuisine",
+      "name": "Curveball Sliders",
+      "website": "http://www.curveballfoodtruck.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "curveball-sliders"
+  },
+  {
+    "fields": {
+      "description": "Indian",
+      "name": "Dil Se",
+      "website": "http://www.dilseeatery.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "dil-se"
+  },
+  {
+    "fields": {
+      "description": "Taiwanese",
+      "name": "Formosa Streets",
+      "website": "http://formosastreets.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "formosa-streets"
+  },
+  {
+    "fields": {
+      "description": "Mexican, Mexican-Fusion",
+      "name": "Frita's Shack",
+      "website": "http://fritasshack.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "fritas-shack"
+  },
+  {
+    "fields": {
+      "description": "Mediterranean",
+      "name": "Gyro Stop",
+      "website": "http://www.gyrostopkebabg.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "gyro-stop"
+  },
+  {
+    "fields": {
+      "description": "Chinese, Asian Fusion",
+      "name": "Hongry Kong (1)",
+      "website": "http://www.hongrykong.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "hongry-kong-1"
+  },
+  {
+    "fields": {
+      "description": "Chinese, Asian Fusion",
+      "name": "Hongry Kong (2)",
+      "website": "http://www.hongrykong.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "hongry-kong-2"
+  },
+  {
+    "fields": {
+      "description": "Pizza",
+      "name": "Houndstooth Pizzeria",
+      "website": "http://www.houndstoothpizzeria.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "houndstooth-pizzeria"
+  },
+  {
+    "fields": {
+      "description": "American, Sandwiches, Cheesesteak",
+      "name": "Izzy's Cheesesteaks",
+      "website": "http://www.izzyscheesesteaks.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "izzys-cheesesteaks"
+  },
+  {
+    "fields": {
+      "description": "BBQ",
+      "name": "Jon Jon's BBQ",
+      "website": "http://www.jonjonsbbq.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "jon-jons-bbq"
+  },
+  {
+    "fields": {
+      "description": "Mexican",
+      "name": "Judie's Tacos Locos",
+      "website": "http://www.judiestacoslocos.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "judies-tacos-locos"
+  },
+  {
+    "fields": {
+      "description": "Korean, Asian Fusion, Fried Chicken",
+      "name": "Kokio Republic",
+      "website": "http://www.kokiorepublic.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "kokio-republic"
+  },
+  {
+    "fields": {
+      "description": "Japanese, Asian Fusion, Sushi",
+      "name": "Kome Sushi Burrito",
+      "website": "http://www.kometruck.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "kome-sushi-burrito"
+  },
+  {
+    "fields": {
+      "description": "French",
+      "name": "Le Cafe Roule",
+      "website": "http://www.lecaferoule.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "le-cafe-roule"
+  },
+  {
+    "fields": {
+      "description": "Seafood",
+      "name": "Lobsta Truck (2)",
+      "website": "http://www.lobstatruck.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "lobsta-truck-2"
+  },
+  {
+    "fields": {
+      "description": "Mexican",
+      "name": "Los Tolucas",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "los-tolucas"
+  },
+  {
+    "fields": {
+      "description": "Indian",
+      "name": "Mantraah",
+      "website": "http://temp.mantraah.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "mantraah"
+  },
+  {
+    "fields": {
+      "description": "Pizza",
+      "name": "Mozzeria",
+      "website": "http://www.mozzeria.com/home"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "mozzeria"
+  },
+  {
+    "fields": {
+      "description": "Vietnamese",
+      "name": "O Mi Ninja",
+      "website": "http://omininjasj.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "o-mi-ninja"
+  },
+  {
+    "fields": {
+      "description": "Japanese, Sushi",
+      "name": "Onigilly",
+      "website": "http://www.onigilly.com/#about"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "onigilly"
+  },
+  {
+    "fields": {
+      "description": "American, Burgers, Sliders",
+      "name": "Paddy Wagon Sliders",
+      "website": "http://www.paddywagonsliders.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "paddy-wagon-sliders"
+  },
+  {
+    "fields": {
+      "description": "Chinese, Peruvian, Asian Fusion, Global Fusion",
+      "name": "Peru Chi",
+      "website": "http://www.peruchitruck.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "peru-chi"
+  },
+  {
+    "fields": {
+      "description": "Indian",
+      "name": "Rasoi",
+      "website": "http://rasoikitchen.strikingly.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "rasoi"
+  },
+  {
+    "fields": {
+      "description": "Noodle, Sandwiches, Meatballs",
+      "name": "Red Sauce Meatballs",
+      "website": "http://www.redsaucemeatballs.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "red-sauce-meatballs"
+  },
+  {
+    "fields": {
+      "description": "Afghan",
+      "name": "Sabzee",
+      "website": "http://www.sabzeefoods.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "sabzee"
+  },
+  {
+    "fields": {
+      "description": "Seafood",
+      "name": "Sam's Chowder Mobile (2)",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "sams-chowder-mobile-2"
+  },
+  {
+    "fields": {
+      "description": "Peruvian",
+      "name": "Sanguchon (2)",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "sanguchon-2"
+  },
+  {
+    "fields": {
+      "description": "Mexican, Filipino",
+      "name": "Senor Sisig (2)",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "senor-sisig-2"
+  },
+  {
+    "fields": {
+      "description": "Korean, Asian Fusion, Taiwanese",
+      "name": "Seoul of Taipei",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "seoul-of-taipei"
+  },
+  {
+    "fields": {
+      "description": "American, Southern, Creole",
+      "name": "Southern Comfort Kitchen",
+      "website": "http://www.southerncomfortkitchen.net/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "southern-comfort-kitchen"
+  },
+  {
+    "fields": {
+      "description": "Mexican, Latin, Mexican-Fusion",
+      "name": "Takoz Mod Mex",
+      "website": "http://takozmodmex.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "takoz-mod-mex"
+  },
+  {
+    "fields": {
+      "description": "Chinese, Asian Fusion",
+      "name": "The Chairman (2)",
+      "website": "http://www.thechairmantruck.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "the-chairman-2"
+  },
+  {
+    "fields": {
+      "description": "Burgers",
+      "name": "The Steamin' Burger",
+      "website": "http://www.thesteaminburger.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "the-steamin-burger"
+  },
+  {
+    "fields": {
+      "description": "Japanese, Sushi",
+      "name": "Tokiko",
+      "website": "http://www.Tokikojapanesefood.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "tokiko"
+  },
+  {
+    "fields": {
+      "description": "Chinese, Japanese, Asian Fusion, Dumplings",
+      "name": "Tonli Dumpling",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "tonli-dumpling"
+  },
+  {
+    "fields": {
+      "description": "Burmese, Mandalay",
+      "name": "Wanna-E",
+      "website": "http://www.wanna-e.com/#"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "wanna-e"
+  },
+  {
+    "fields": {
+      "description": "BBQ",
+      "name": "Yummi BBQ",
+      "website": "http://www.yummibbq.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "yummi-bbq"
+  },
+  {
+    "fields": {
+      "description": "Produce",
+      "name": "Yerena Farms",
+      "website": "http://www.cuesa.org/seller/yerena-farms"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "yerena-farms"
+  },
+  {
+    "fields": {
+      "description": "Photos",
+      "name": "Das Bus",
+      "website": "http://das-bus.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "das-bus"
+  },
+  {
+    "fields": {
+      "description": "Retail",
+      "name": "Presidio YMCA",
+      "website": "http://www.ymcasf.org/presidio/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "presidio-ymca"
+  },
+  {
+    "fields": {
+      "description": "Retail",
+      "name": "Sports Basement",
+      "website": "http://www.sportsbasement.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "sports-basement"
+  },
+  {
+    "fields": {
+      "description": "Yoga",
+      "name": "The Pad Studios",
+      "website": "http://thepadstudios.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "the-pad-studios"
+  },
+  {
+    "fields": {
+      "description": "Retail, Flowers",
+      "name": "Home Sweet Flowers",
+      "website": "http://www.homesweetflowers.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "home-sweet-flowers"
+  },
+  {
+    "fields": {
+      "description": "Dessert",
+      "name": "Nosh This",
+      "website": "http://noshthis.com"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "nosh-this"
+  },
+  {
+    "fields": {
+      "description": "Dog Treats",
+      "name": "Scrappy",
+      "website": "http://www.scrappyforpets.com/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "scrappy"
+  },
+  {
+    "fields": {
+      "description": "Games",
+      "name": "City Cornhole",
+      "website": "http://citycornhole.com/summer-event-3/"
+    },
+    "model": "offthegrid.vendor",
+    "pk": "city-cornhole"
+  },
+  {
+    "fields": {
+      "description": "Games",
+      "name": "Joey the Cat",
+      "website": ""
+    },
+    "model": "offthegrid.vendor",
+    "pk": "joey-the-cat"
+  }
+]

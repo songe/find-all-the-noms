@@ -1,0 +1,21 @@
+{% if vendor %}
+    <h1>{{ vendor.name }}</h1>
+    <ul>
+        <li>{{ vendor.description }}</li>
+        {% if vendor.website %}
+        <li><a href="{{ vendor.website }}">{{ vendor.website }}</a></li>
+        {% endif %}
+        <li>Has been to {{ vendor.number_of_events_in_past_30_days }} events in past 30 days</li>
+    </ul>
+
+    <h2>Events</h2>
+    <ul>
+    {% for event in vendor.events.all %}
+        <li><a href="/off-the-grid/event/{{ event.id }}">{{ event.name }}</a></li>
+    {% empty %}
+        <li>No events :(</li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No such vendor</p>
+{% endif %}

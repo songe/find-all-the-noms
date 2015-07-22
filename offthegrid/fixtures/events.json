@@ -1,0 +1,21 @@
+[
+    {
+        "fields": {
+            "description": "Off the Grid's FIRST Friday night dinner market in the South Bay and fourth Friday night market overall, Off  the  Grid:  San  Carlos  @  Devil\u2019s  Canyon  Brewery  will  offer  a  welcome destination dinner option for Highway 101 commuters Devil\u2019s Canyon Brewery will open to the public from 4 - 9 p.m. with food service starting at 5 p.m. and live music indoors from 6 \u2013 8 p.m. \n\nThe new market creates a vibrant, unique and convenient community event to enjoy with family and friends. Trucks this evening include:\nLexie's Frozen Custard\nHula Truck (1)\n3 Brothers Kitchen\nPorky's SJ\nThe Steamin' Burger\nJudie's Tacos Locos",
+            "location": "935 Washington Street, San Carlos CA",
+            "name": "Off the Grid: San Carlos @ Devil's Canyon Brewery (Friday Dinner)",
+            "start_time": "2015-05-02T00:00:00Z",
+            "vendors": [
+                "3-brothers-kitchen-1",
+                "3-brothers-kitchen-2",
+                "hula-truck-1",
+                "judies-tacos-locos",
+                "lexies-frozen-custard",
+                "porkys-sj",
+                "the-steamin-burger"
+            ]
+        },
+        "model": "offthegrid.event",
+        "pk": "424685901042270"
+    }
+]

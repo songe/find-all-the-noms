@@ -1,0 +1,19 @@
+{% if event %}
+    <h1>{{ event.name }}</h1>
+    <ul>
+        <li>{{ event.location }}</li>
+        <li>{{ event.start_time }}</li>
+        <li>{{ event.description|linebreaksbr }}</li>
+    </ul>
+
+    <h2>Vendors</h2>
+    <ul>
+    {% for vendor in event.vendors.all %}
+        <li><a href="/off-the-grid/vendor/{{ vendor.id }}">{{ vendor.name }}</a></li>
+    {% empty %}
+        <li>No vendors :(</li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No such event</p>
+{% endif %}
