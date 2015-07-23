@@ -46,11 +46,14 @@ class Event(models.Model):
 
     @classmethod
     def from_json(cls, json):
-        event = cls(
-            id = json.get('id'),
-            name = json.get('name'),
-            description = json.get('description'),
-            location = json.get('location')
-        )
+        try:
+            event = cls(
+                id = json['id'], # required
+                name = json.get('name'),
+                description = json.get('description'),
+                location = json.get('location')
+            )
+        except KeyError:
+            return None
         event.start_time = parse_datetime(json.get('start_time'))
         return event

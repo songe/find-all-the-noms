@@ -71,6 +71,8 @@ def load_event_list_from_facebook(pages=2):
 def load_event_from_facebook(event_id):
     r = requests.get(GRAPH_API + event_id, params=AUTH)
     event = Event.from_json(r.json())
+    if event is None:
+        return None
     event.save()
     event.resolve_vendors()
     return event
